@@ -1,1 +1,1 @@
-# web_Audio_ApI
+[Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) to apply music frequency as the data to fuel the visualisation – [based on Gary Smith's terrific post](https://www.bignerdranch.com/blog/music-visualization-with-d3-js/).
